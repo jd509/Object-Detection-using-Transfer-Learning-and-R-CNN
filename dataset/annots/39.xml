@@ -1,0 +1,26 @@
+<annotation>
+    <folder>find_phone</folder>
+    <filename>39.jpg</filename>
+    <path>/home/jaineel/Downloads/find_phone_task_4/find_phone/39.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>490</width>
+        <height>326</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274</xmin>
+            <ymin>92</ymin>
+            <xmax>323</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+</annotation>
